@@ -16,12 +16,6 @@
          url("src/assets/fonts/knightWarrior.otf") format("opentype");
 }
 @font-face {
-    font-family: "Quantico-Bold";
-    src: local("Quantico-Bold"), 
-         url("src/assets/fonts/Quantico-Bold.ttf") format("truetype");
-}
-
-@font-face {
     font-family: 'FastLines';
     src: local("FastLines"), 
          url("src/assets/fonts/fastLines.otf") format("opentype");

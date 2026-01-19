@@ -6,7 +6,7 @@ import Loader from "./components/loader/loader.jsx";
 
 import Header from "./components/navigation/header/header";
 import Home from "./pages/home/Home";
-import Team from "./pages/team/team";
+import Team from "./pages/team/Team";
 import Intro from "./pages/home/intro.jsx";
 // import About from "./pages/about/about";
 import Merchandise from "./pages/merchandise/merchandise";
