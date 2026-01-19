@@ -12,7 +12,7 @@ import Intro from "./pages/home/intro.jsx";
 import Merchandise from "./pages/merchandise/merchandise";
 import Spaceship from "./components/spaceship.jsx";
 // import Team from "./pages/team/team.jsx"
-import Contact from "./pages/contact/contact";
+import Contact from "./pages/contact/Contact";
 import MuteButton from "./pages/home/homeComponents/sound.jsx";
 // import Register from "./pages/register/register";
 // import Registration2 from "./pages/register/Registration2.jsx"
